@@ -1,1 +1,2 @@
 # odin-recipes
+This is a project to build a recipe website using the html knowledge acquired from the previous lessons. We'll be using the basic HTML boilerplate as well as the various tags ,such as the paragraph and list tags, taught in the previous lessons.
